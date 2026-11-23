@@ -1,0 +1,10 @@
+numpy
+opencv-python
+pillow
+pyyaml
+torch
+transformers
+ultralytics
+matplotlib
+scikit-learn
+pyrealsense2   # only for safety/ (Project 2)

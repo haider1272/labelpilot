@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.log
+*.pt
+*.pth
+*.npz
+*.bag
+*.mp4
+data/*
+!data/.gitkeep
+out/
+runs/
+big_dataset/
+final_dataset/
+tray_areas.json
+safety/config/config.py
+.venv/
